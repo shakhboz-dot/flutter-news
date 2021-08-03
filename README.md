@@ -4,7 +4,7 @@ A new Flutter project.
 
 <a href="https://ibb.co/WpNynZB"><img src="https://i.ibb.co/3Y5N12S/Screenshot-1625935036.png" alt="Screenshot-1625935036" border="0" width="250"></a>
 <a href="https://ibb.co/2Wc3f7M"><img src="https://i.ibb.co/6rD0fRt/Screenshot-1625935041.png" alt="Screenshot-1625935041" border="0" width="250"></a>
-<a href="https://ibb.co/PWkN5Vy"><img src="https://i.ibb.co/M1dsRJH/Screenshot-1625935045.png" alt="Screenshot-1625935045" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>host gif online</a><br />
+<a href="https://ibb.co/PWkN5Vy"><img src="https://i.ibb.co/M1dsRJH/Screenshot-1625935045.png" alt="Screenshot-1625935045" border="0" width="250"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>host gif online</a><br />
 <a href="https://ibb.co/FJj7f2P"><img src="https://i.ibb.co/tcWCNgd/Screenshot-1625935049.png" alt="Screenshot-1625935049" border="0" width="250"></a>
 <a href="https://ibb.co/dtdKR5m"><img src="https://i.ibb.co/pQtXSLh/Screenshot-1625935052.png" alt="Screenshot-1625935052" border="0" width="250"></a>
 
